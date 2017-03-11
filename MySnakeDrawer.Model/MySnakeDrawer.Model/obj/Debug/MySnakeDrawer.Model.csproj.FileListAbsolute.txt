@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\MySnakeDrawer.Model\MySnakeDrawer.Model\bin\Debug\MySnakeDrawer.Model.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MySnakeDrawer.Model\MySnakeDrawer.Model\bin\Debug\MySnakeDrawer.Model.exe
+c:\users\user\documents\visual studio 2015\Projects\MySnakeDrawer.Model\MySnakeDrawer.Model\bin\Debug\MySnakeDrawer.Model.pdb
+c:\users\user\documents\visual studio 2015\Projects\MySnakeDrawer.Model\MySnakeDrawer.Model\obj\Debug\MySnakeDrawer.Model.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MySnakeDrawer.Model\MySnakeDrawer.Model\obj\Debug\MySnakeDrawer.Model.exe
+c:\users\user\documents\visual studio 2015\Projects\MySnakeDrawer.Model\MySnakeDrawer.Model\obj\Debug\MySnakeDrawer.Model.pdb
