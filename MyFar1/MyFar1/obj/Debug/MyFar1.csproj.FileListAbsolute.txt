@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\MyFar1\MyFar1\bin\Debug\MyFar1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MyFar1\MyFar1\bin\Debug\MyFar1.exe
+c:\users\user\documents\visual studio 2015\Projects\MyFar1\MyFar1\bin\Debug\MyFar1.pdb
+c:\users\user\documents\visual studio 2015\Projects\MyFar1\MyFar1\obj\Debug\MyFar1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MyFar1\MyFar1\obj\Debug\MyFar1.exe
+c:\users\user\documents\visual studio 2015\Projects\MyFar1\MyFar1\obj\Debug\MyFar1.pdb
