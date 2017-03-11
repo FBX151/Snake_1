@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2015\Projects\PrimeNumber1\PrimeNumber1\bin\Debug\PrimeNumber1.exe.config
